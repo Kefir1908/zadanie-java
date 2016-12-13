@@ -26,7 +26,7 @@ public class xxxx {
 				
 			System.out.println();
 			
-				if(tab[i][y] == 'b' && tab[i-1][y] =! 'a' && tab[i+1][y] =! 'a' && tab[i][y-1] =! 'a' && tab[i][y+1] =! 'a' );
+				if(tab[i][y] == 'b' && tab[i-1][y] != 'a' && tab[i+1][y] != 'a' && tab[i][y-1] != 'a' && tab[i][y+1] != 'a' );
 					Xsasiadujace= Xsasiadujace + 1;
 				else Xpozostale = Xpozostale +1;
 				if (Xsasiadujace/Xpozostale> 0.2);
