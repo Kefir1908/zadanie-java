@@ -32,7 +32,7 @@ public class xxxx123 {
 					Xsasiadujace= Xsasiadujace + 1;
 				else Xpozostale = Xpozostale +1;
 				if (Xsasiadujace/Xpozostale> 0.2);
-						System.out.println("labirynt ma za duzo X-sów s¹siaduj¹cych tylko z X-sami");
+						System.out.println("labirynt ma za duzo X-sÃ³w sÂ¹siadujÂ¹cych tylko z X-sami");
 					
 		}
 			
